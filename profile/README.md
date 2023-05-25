@@ -7,12 +7,14 @@ Our research group FORMAS - Formalisms and Semantic Applications - main objectiv
 
 
 ### Our Main Projects
-* [DptOIE](https://github.com/FORMAS/DptOIE) 
-  - DptOIE method uses the Dependence Parser and Part of Speech Tagger models trained with Stanford CoreNLP.
-* [PTOIE-Flair](https://github.com/FORMAS/PTOIE-Flair)
-  - A pt-br OpenIE model.
-* [PTOIE-Dep](https://github.com/FORMAS/PTOIE-Dep)
-  - PTOIE-Dep is an Open Information Extractor for Portuguese language that employs Dependence Parser and Part of Speech Tagger models with Stanford CoreNLP.
+* [DptOIE](https://github.com/FORMAS/DptOIE) method uses the Dependence Parser and Part of Speech Tagger models trained with Stanford CoreNLP.
+  - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
+   
+* [PTOIE-Flair](https://github.com/FORMAS/PTOIE-Flair) a pt-br OpenIE model.
+  - Article
+  
+* [PTOIE-Dep](https://github.com/FORMAS/PTOIE-Dep) is an Open Information Extractor for Portuguese language that employs Dependence Parser and Part of Speech Tagger models with Stanford CoreNLP.
+  - Article
 
 
 

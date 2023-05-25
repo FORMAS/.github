@@ -29,4 +29,6 @@ Our research group FORMAS - Formalisms and Semantic Applications - main objectiv
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+* [awesomeImageCaptioning](https://github.com/FORMAS/awesomeImageCaptioning) this is a curated list of Image Captioning papers, databases and codes.
 -->

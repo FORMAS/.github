@@ -1,2 +1,0 @@
-# .github
-Personal home page.

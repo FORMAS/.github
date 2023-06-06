@@ -11,7 +11,7 @@ Our research group FORMAS - Formalisms and Semantic Applications - main objectiv
   - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
 
 * [PortNOIE](https://github.com/FORMAS/dptoie-neural) is a new version of DPTOIE.
-  - Article
+  - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Languageh](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23)
    
 * [PTOIE-Flair](https://github.com/FORMAS/PTOIE-Flair) is a pt-br OpenIE model.
   - Article

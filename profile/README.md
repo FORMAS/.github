@@ -7,6 +7,12 @@ Our research group FORMAS - Formalisms and Semantic Applications - main objectiv
 
 
 ### Our Main Projects
+* [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Vigilance models providing image captioning for operators and systems.
+  - [XXXX.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
+
+* [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for CDC legal documents. 
+  - [Dataset:   .](Link Padawan 2024) 
+
 * [DptOIE](https://github.com/FORMAS/DptOIE) method uses the Dependence Parser and Part of Speech Tagger models trained with Stanford CoreNLP.
   - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
 

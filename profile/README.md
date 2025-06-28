@@ -28,6 +28,9 @@ FORMAS Research Center on Data ans Natural Language aims to study, analyze and e
 * [PragmaticOIE](https://github.com/FORMAS/PragmaticOIE) method uses a rule-based approach to extract facts in Portuguese in a first pragmatic level.
   - [PragmaticOIE: a pragmatic open information extraction for Portuguese language](https://link.springer.com/article/10.1007/s10115-020-01442-7)
 
+* [imagecaptioningPT](https://github.com/FORMAS/imagecaptioningPT) methods to generate image captioning in the Portuguese language.  
+  - [Towards Image Captioning for the Portuguese Language: Evaluation on a Translated Dataset](https://www.researchgate.net/publication/360495253_Towards_Image_Captioning_for_the_Portuguese_Language_Evaluation_on_a_Translated_Dataset) 
+
 <!--
 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?

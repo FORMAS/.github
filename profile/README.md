@@ -3,7 +3,7 @@
 </picture>
 
 # FORMAS
-Our research group FORMAS - Formalisms and Semantic Applications - main objective is to study, to analyze and to evaluate semantic approaches, covering from formalisms through applications. Our group main research areas are based on five major steps on achieving semantic: Methods, Ontology, Information Extraction, Interoperability and Formal Validation. We deeply analyze each one of these approaches focusing on obtaining high levels of semantic and pragmatic comprehension. Visite our [website](http://formas.ufba.br/) for more informations.
+FORMAS Research Center on Data ans Natural Language aims to study, analyze and evaluate semantic-based approaches. Our main research areas are based on five major pillars on semantic-based area: Methods, Ontology, Information Extraction, Interoperability and Big Data. We deeply analyze each one of these approaches focusing on obtaining high levels of semantic and pragmatic comprehension. Visite our [website](http://formas.ufba.br/) for more informations.
 
 
 ### Our Main Projects

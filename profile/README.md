@@ -8,35 +8,35 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 ### Our Main Projects
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
-  - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811)
-  - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models](https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf)
+  - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811) @ SESOS2025
+  - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models](https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf) @ MODRE2025
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 
-  - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971)
+  - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971) @PADAWAN2024
   - [Towards a Corpus Methodology for LLMs in the Legal Domain](STIL 2025)
 
 * [DptOIE](https://github.com/FORMAS/DptOIE) method extract triples from Universal Dependencies (UD) format.
-  - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4) 
+  - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4) @AIR JOURNAL 
   - [DPToie-Python]
   
 
 * [PortNOIE](https://github.com/FORMAS/dptoie-neural) is a new version of DPTOIE-Neural.
-  - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Language](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23)
+  - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Language](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23) @PROPOR2024
   - [Extração de Informação Aberta com LLM para a Língua Portuguesa](https://www.linguamatica.com/index.php/linguamatica/article/view/454)
   - [Exploring Open Information Extraction for Portuguese Using Large Language Models](https://aclanthology.org/2024.propor-1.13/)
   - [Scaling and Adapting Large Language Models for Portuguese Open Information Extraction: A Comparative Study of Fine-Tuning and LoRA](https://dl.acm.org/doi/10.1007/978-3-031-79035-5_30) 
    
 * [PTOIE-Flair](https://github.com/FORMAS/PTOIE-Flair) is a pt-br OpenIE model.
-  - [Exploring Open Information Extraction for the Portuguese language: An integrated monolithic approach in Cloud environment](https://aclanthology.org/2024.propor-2.28/)
+  - [Exploring Open Information Extraction for the Portuguese language: An integrated monolithic approach in Cloud environment](https://aclanthology.org/2024.propor-2.28/) @PROPOR2024
   
 * [PragmaticOIE](https://github.com/FORMAS/PragmaticOIE) method uses a rule-based approach to extract facts in Portuguese in a first pragmatic level.
-  - [PragmaticOIE: a pragmatic open information extraction for Portuguese language](https://link.springer.com/article/10.1007/s10115-020-01442-7)
+  - [PragmaticOIE: a pragmatic open information extraction for Portuguese language](https://link.springer.com/article/10.1007/s10115-020-01442-7) @NLP JOURNAL
 
 * [ImageCaptioningPT](https://github.com/FORMAS/ImageCaptioningPT) methods to generate image captioning in the Portuguese language.  
-  - [Towards Image Captioning for the Portuguese Language: Evaluation on a Translated Dataset](https://www.researchgate.net/publication/360495253_Towards_Image_Captioning_for_the_Portuguese_Language_Evaluation_on_a_Translated_Dataset)
+  - [Towards Image Captioning for the Portuguese Language: Evaluation on a Translated Dataset](https://www.researchgate.net/publication/360495253_Towards_Image_Captioning_for_the_Portuguese_Language_Evaluation_on_a_Translated_Dataset) @ICEIS2023
 
 * [ALiBWeb](http://alibweb.ufba.br) is a Web system to map Brazilian dialectology areas. 
-  - [ALiBWeb: estado da arte e perspectivas futuras](https://periodicos.ufsc.br/index.php/workingpapers/article/view/77981)
+  - [ALiBWeb: estado da arte e perspectivas futuras](https://periodicos.ufsc.br/index.php/workingpapers/article/view/77981) @WORKINGPAPER
 
 <!--
 **Here are some ideas to get you started:**

@@ -8,7 +8,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 ### Our Main Projects
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
-  - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811)
+  - [Towards a SoIS model for University Surveillance] (https://ieeexplore.ieee.org/document/11050811)
   - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models] (https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf)
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 

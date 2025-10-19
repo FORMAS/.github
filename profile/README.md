@@ -2,7 +2,7 @@
  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH7kzaTLwKgJQ/company-logo_100_100/B4DZnIuSYGKQAQ-/0/1760009203462/formas_research_group_logo?e=1762387200&v=beta&t=g2EagGHeq0PPiFsZ148gp8II_e-8KvRWTBcbkLfCqac" alt="logo">
 </picture>
 
-# FORMAS Research Center on Data ans Natural Language
+# FORMAS Research Center on Data and Natural Language
 FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main research areas are based on five major pillars on semantic-based area: Methods, Ontology, Information Extraction, Interoperability and Big Data. We deeply analyze each one of these approaches focusing on obtaining high levels of semantic and pragmatic comprehension. Visite our [website](http://formas.ufba.br/) for more informations.
 
 

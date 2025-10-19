@@ -8,13 +8,17 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 ### Our Main Projects
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
-  - [XXXX.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
+  - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811)
+  - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models] (https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf)
 
-* [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for CDC legal documents. 
-  - [Dataset:   .](Link Padawan 2024) 
+* [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 
+  - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971)
+  - [Towards a Corpus Methodology for LLMs in the Legal Domain](STIL 2025)
 
-* [DptOIE](https://github.com/FORMAS/DptOIE) method uses the Dependence Parser and Part of Speech Tagger models trained with Stanford CoreNLP.
-  - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
+* [DptOIE](https://github.com/FORMAS/DptOIE) method extract triples from Universal Dependencies (UD) format.
+  - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4) 
+  - [DPToie-Python]
+  
 
 * [PortNOIE](https://github.com/FORMAS/dptoie-neural) is a new version of DPTOIE-Neural.
   - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Language](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23)

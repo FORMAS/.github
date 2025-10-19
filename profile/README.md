@@ -22,9 +22,9 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 * [PortNOIE](https://github.com/FORMAS/dptoie-neural) is a new version of DPTOIE-Neural.
   - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Language](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23) @PROPOR2024
-  - [Extração de Informação Aberta com LLM para a Língua Portuguesa](https://www.linguamatica.com/index.php/linguamatica/article/view/454)
-  - [Exploring Open Information Extraction for Portuguese Using Large Language Models](https://aclanthology.org/2024.propor-1.13/)
-  - [Scaling and Adapting Large Language Models for Portuguese Open Information Extraction: A Comparative Study of Fine-Tuning and LoRA](https://dl.acm.org/doi/10.1007/978-3-031-79035-5_30) 
+  - [Extração de Informação Aberta com LLM para a Língua Portuguesa](https://www.linguamatica.com/index.php/linguamatica/article/view/454) @LINGUAMATICA
+  - [Exploring Open Information Extraction for Portuguese Using Large Language Models](https://aclanthology.org/2024.propor-1.13/) @PROPOR2024
+  - [Scaling and Adapting Large Language Models for Portuguese Open Information Extraction: A Comparative Study of Fine-Tuning and LoRA](https://dl.acm.org/doi/10.1007/978-3-031-79035-5_30) @BRACIS2024
    
 * [PTOIE-Flair](https://github.com/FORMAS/PTOIE-Flair) is a pt-br OpenIE model.
   - [Exploring Open Information Extraction for the Portuguese language: An integrated monolithic approach in Cloud environment](https://aclanthology.org/2024.propor-2.28/) @PROPOR2024
@@ -34,6 +34,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 * [ImageCaptioningPT](https://github.com/FORMAS/ImageCaptioningPT) methods to generate image captioning in the Portuguese language.  
   - [Towards Image Captioning for the Portuguese Language: Evaluation on a Translated Dataset](https://www.researchgate.net/publication/360495253_Towards_Image_Captioning_for_the_Portuguese_Language_Evaluation_on_a_Translated_Dataset) @ICEIS2023
+  - ... @JBCS2025
 
 * [ALiBWeb](http://alibweb.ufba.br) is a Web system to map Brazilian dialectology areas. 
   - [ALiBWeb: estado da arte e perspectivas futuras](https://periodicos.ufsc.br/index.php/workingpapers/article/view/77981) @WORKINGPAPER

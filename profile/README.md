@@ -7,7 +7,7 @@ FORMAS Research Center on Data ans Natural Language aims to study, analyze and e
 
 
 ### Our Main Projects
-* [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Vigilance models providing image captioning for operators and systems.
+* [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
   - [XXXX.](https://link.springer.com/article/10.1007/s10462-022-10349-4)
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for CDC legal documents. 

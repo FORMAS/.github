@@ -18,7 +18,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 
   - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971) @PADAWAN2024
-  - [Towards a Corpus Methodology for LLMs in the Legal Domain](STIL 2025)
+  - [Towards a Corpus Methodology for LLMs in the Legal Domain](https://sol.sbc.org.br/index.php/stil/article/view/37831) @STIL2025
 
 * [DptOIE](https://github.com/FORMAS/DptOIE) method extract triples from Universal Dependencies (UD) format.
   - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4) @AIR JOURNAL 

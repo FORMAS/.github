@@ -1,5 +1,5 @@
 <picture> 
- <img src="[http://formas.ufba.br/](https://formas.ufba.br/logo.png)" alt="logo">
+ <img src="https://formas.ufba.br/logo.png" alt="logo">
 </picture>
 
 # FORMAS Research Center on Data and Natural Language

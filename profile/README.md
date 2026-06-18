@@ -7,6 +7,9 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 
 ### Our Main Projects
+* [Attention in Transformer](https://github.com/FORMAS/ud-attention-analysis-ptbr-multidomain) investigates how attention weights in a Transformer model behave when anchored to explicit governor-dependent relations extracted from UD-annotated corpora.
+  - [Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD](https://bracis.sbc.org.br/2026/) @ BRACIS2026
+  
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
   - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811) @ SESOS2025
   - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models](https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf) @ MODRE2025
@@ -20,7 +23,6 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
   - [DptOIE: a Portuguese open information extraction based on dependency analysis.](https://link.springer.com/article/10.1007/s10462-022-10349-4) @AIR JOURNAL 
   - [DPToie-Python]
   
-
 * [PortNOIE](https://github.com/FORMAS/dptoie-neural) is a new version of DPTOIE-Neural.
   - [PortNOIE: A Neural Framework for Open Information Extraction for the Portuguese Language](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_23) @PROPOR2024
   - [Extração de Informação Aberta com LLM para a Língua Portuguesa](https://www.linguamatica.com/index.php/linguamatica/article/view/454) @LINGUAMATICA

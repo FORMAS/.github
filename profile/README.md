@@ -10,6 +10,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
   - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811) @ SESOS2025
   - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models](https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf) @ MODRE2025
+  - [CSIS Ecosystem: Impacts of Pragmatic Detection on a Campus Surveillance Case Study](https://sol.sbc.org.br/index.php/sbsi/article/view/41376) @ SBSI2026 
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 
   - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971) @PADAWAN2024
@@ -34,7 +35,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 * [ImageCaptioningPT](https://github.com/FORMAS/ImageCaptioningPT) methods to generate image captioning in the Portuguese language.  
   - [Towards Image Captioning for the Portuguese Language: Evaluation on a Translated Dataset](https://www.researchgate.net/publication/360495253_Towards_Image_Captioning_for_the_Portuguese_Language_Evaluation_on_a_Translated_Dataset) @ICEIS2023
-  - ... @JBCS2025
+  - [A bilingual analysis of multi-head attention mechanism for image captioning based on morphosyntactic information](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5792) @JBCS2025
 
 * [ALiBWeb](http://alibweb.ufba.br) is a Web system to map Brazilian dialectology areas. 
   - [ALiBWeb: estado da arte e perspectivas futuras](https://periodicos.ufsc.br/index.php/workingpapers/article/view/77981) @WORKINGPAPER

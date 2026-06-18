@@ -8,7 +8,7 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 ### Our Main Projects
 * [Attention in Transformer](https://github.com/FORMAS/ud-attention-analysis-ptbr-multidomain) investigates how attention weights in a Transformer model behave when anchored to explicit governor-dependent relations extracted from UD-annotated corpora.
-  - [Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD](https://bracis.sbc.org.br/2026/) @ BRACIS2026
+ - [Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD](https://bracis.sbc.org.br/2026/) @ BRACIS2026
   
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
   - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811) @ SESOS2025

@@ -8,12 +8,13 @@ FORMAS aims to study, analyze and evaluate semantic-based approaches. Our main r
 
 ### Our Main Projects
 * [Attention in Transformer](https://github.com/FORMAS/ud-attention-analysis-ptbr-multidomain) investigates how attention weights in a Transformer model behave when anchored to explicit governor-dependent relations extracted from UD-annotated corpora.
-  - [Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD](https://bracis.sbc.org.br/2026/) @ BRACIS2026
+  - [Syntactic Analysis in Transformers through Attention Heads](https://sol.sbc.org.br/index.php/stil/article/view/37833) @STIL2025 - 2nd Best Paper Award
+  - [Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD](https://bracis.sbc.org.br/2026/) @BRACIS2026
   
 * [CSIS](https://github.com/FORMAS/CSIS) method interoperates Syntactic, Semantic and Pragmatic into University Surveillance models providing image captioning for operators and systems.
   - [Towards a SoIS model for University Surveillance](https://ieeexplore.ieee.org/document/11050811) @ SESOS2025
   - [Supporting Pragmatic Interoperability: An LLM Based Process to Analyze Distributed Intentionality (i*) Models](https://www.modre.ece.mcgill.ca/proceedings/MoDRE2025_3_presentation.pdf) @ MODRE2025
-  - [CSIS Ecosystem: Impacts of Pragmatic Detection on a Campus Surveillance Case Study](https://sol.sbc.org.br/index.php/sbsi/article/view/41376) @ SBSI2026 
+  - [CSIS Ecosystem: Impacts of Pragmatic Detection on a Campus Surveillance Case Study](https://sol.sbc.org.br/index.php/sbsi/article/view/41376) @SBSI2026 
 
 * [DIGGER](https://github.com/FORMAS/DIGGER) method uses LLMs to provide a QA for the CDC legal documents. 
   - [Brazilian Consumer Protection Code: a methodology for a dataset to Question-Answer (QA) Models](https://sol.sbc.org.br/index.php/stil/article/view/31168/30971) @PADAWAN2024

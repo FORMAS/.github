@@ -1,5 +1,5 @@
 <picture> 
- <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH7kzaTLwKgJQ/company-logo_100_100/B4DZnIuSYGKQAQ-/0/1760009203462/formas_research_group_logo?e=1762387200&v=beta&t=g2EagGHeq0PPiFsZ148gp8II_e-8KvRWTBcbkLfCqac" alt="logo">
+ <img src="[https://media.licdn.com/dms/image/v2/D4D0BAQH7kzaTLwKgJQ/company-logo_100_100/B4DZnIuSYGKQAQ-/0/1760009203462/formas_research_group_logo?e=1762387200&v=beta&t=g2EagGHeq0PPiFsZ148gp8II_e-8KvRWTBcbkLfCqac](http://formas.ufba.br/)" alt="logo">
 </picture>
 
 # FORMAS Research Center on Data and Natural Language
